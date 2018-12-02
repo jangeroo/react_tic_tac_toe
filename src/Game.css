@@ -1,0 +1,14 @@
+ol,
+ul {
+  /* override default 40px for lists */
+  padding-left: 30px;
+}
+
+.game {
+  display: flex;
+  flex-direction: row;
+}
+
+.game-info {
+  margin-left: 20px;
+}
